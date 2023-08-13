@@ -1,0 +1,16 @@
+#check {
+  width: 1.2rem;
+}
+.statusForm {
+  background-color: #2c2c38;
+  color: #fff;
+}
+.create__task2 {
+  width: 25rem;
+  height: 2.5rem;
+  background-color: #645fc6;
+  color: #fff;
+  border-radius: 25px;
+  margin-bottom: 1rem;
+  border: none !important;
+}
